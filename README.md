@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently an international student Of Applied mathematics and Data science studying at Inholland university of applied sciences, Amsterdam<br>I am looking for an internship in the field of data science<br>I am currently working on a project with ING wholesale banking <br>I am currently learning learning Machine learning and Data Engineering
+Student of Applied mathematics and Data science at Inholland university of applied sciences, Amsterdam<br>Machine learning and Data Engineering
 
 
 ## 🌐 Socials:
