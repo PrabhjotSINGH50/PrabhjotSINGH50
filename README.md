@@ -1,5 +1,6 @@
 # 💫 About Me:
-Student of Applied mathematics and Data science at Inholland university of applied sciences, Amsterdam<br>Machine learning and Data Engineering
+Student of Applied mathematics and Data science at Inholland university of applied sciences, Amsterdam
+<br>Python | SQL | Databricks | Claude Code | Cursor | Github Copilot 
 
 
 ## 🌐 Socials:
